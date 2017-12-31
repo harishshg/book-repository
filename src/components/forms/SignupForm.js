@@ -6,7 +6,6 @@ import {
   ControlLabel,
   FormControl,
   Button,
-  Alert,
   Modal
 } from "react-bootstrap";
 import isEmail from "validator/lib/isEmail";
